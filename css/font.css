@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "Manrope-Bold";
+  src: url(../fonts/Manrope-Bold.eot);
+  src: url(../fonts/Manrope-Bold.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/Manrope-Bold.otf) format("otf"),
+    url(../fonts/Manrope-Bold.svg#Manrope-Bold) format("svg"),
+    url(../fonts/Manrope-Bold.ttf) format("truetype"),
+    url(../fonts/Manrope-Bold.woff) format("woff"),
+    url(../fonts/Manrope-Bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Manrope-Medium";
+  src: url(../fonts/Manrope-Medium.eot);
+  src: url(../fonts/Manrope-Medium.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/Manrope-Medium.otf) format("otf"),
+    url(../fonts/Manrope-Medium.svg#Manrope-Medium) format("svg"),
+    url(../fonts/Manrope-Medium.ttf) format("truetype"),
+    url(../fonts/Manrope-Medium.woff) format("woff"),
+    url(../fonts/Manrope-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Manrope-Regular";
+  src: url(../fonts/Manrope-Regular.eot);
+  src: url(../fonts/Manrope-Regular.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/Manrope-Regular.otf) format("otf"),
+    url(../fonts/Manrope-Regular.svg#Manrope-Regular) format("svg"),
+    url(../fonts/Manrope-Regular.ttf) format("truetype"),
+    url(../fonts/Manrope-Regular.woff) format("woff"),
+    url(../fonts/Manrope-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Mariupol-Bold";
+  src: url(../fonts/Mariupol-Bold.eot);
+  src: url(../fonts/Mariupol-Bold.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/Mariupol-Bold.otf) format("otf"),
+    url(../fonts/Mariupol-Bold.svg#Mariupol-Bold) format("svg"),
+    url(../fonts/Mariupol-Bold.ttf) format("truetype"),
+    url(../fonts/Mariupol-Bold.woff) format("woff"),
+    url(../fonts/Mariupol-Bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Mariupol-Medium";
+  src: url(../fonts/Mariupol-Medium.eot);
+  src: url(../fonts/Mariupol-Medium.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/Mariupol-Medium.otf) format("otf"),
+    url(../fonts/Mariupol-Medium.svg#Mariupol-Medium) format("svg"),
+    url(../fonts/Mariupol-Medium.ttf) format("truetype"),
+    url(../fonts/Mariupol-Medium.woff) format("woff"),
+    url(../fonts/Mariupol-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Mariupol-Regular";
+  src: url(../fonts/Mariupol-Regular.eot);
+  src: url(../fonts/Mariupol-Regular.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/Mariupol-Regular.otf) format("otf"),
+    url(../fonts/Mariupol-Regular.svg#Mariupol-Regular) format("svg"),
+    url(../fonts/Mariupol-Regular.ttf) format("truetype"),
+    url(../fonts/Mariupol-Regular.woff) format("woff"),
+    url(../fonts/Mariupol-Regular.woff2) format("woff2");
+}

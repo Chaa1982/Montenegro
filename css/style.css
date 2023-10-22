@@ -1,0 +1,115 @@
+@import url(./font.css);
+
+body {
+  padding: 0;
+  margin: 0;
+  background: #c3c8ca;
+}
+section {
+  margin: auto;
+}
+main {
+ max-width: 1920px;
+ margin: auto;
+ padding: 0 80px;
+  
+}
+#section1 main{
+  background-image: url("../image/img1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+ 
+#section1 header {
+    width: 100%;
+  padding: 50px 0 144px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+}
+#section1 #see-up {
+  font-size: 40px;
+  line-height: 38.52px;
+  font-weight: 700;
+  color: #fff;
+  font-family: "Mariupol-Bold";
+}
+#section1 menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 100px;
+}
+#section1 #link-wrap {
+    display: flex;
+    gap: 100px;
+}
+#section1 menu a {
+  font-size: 32px;
+  font-family: "Mariupol-Medium";
+  line-height: 30.81px;
+  font-weight: 500;
+  text-decoration: none;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+}
+#section1 #burger {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+#section1 .line {
+  border: 2px solid #fff;
+}
+#section1 #l1 {
+  width: 50px;
+}
+#section1 #l2 {
+  width: 40px;
+}
+#section1 #l3 {
+  width: 30px;
+}
+#section1 #description-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#section1 #head {
+  font-size: 128px;
+  font-family: "Manrope-Bold";
+  line-height: 174.85px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 21px;
+}
+#section1 .description {
+  max-width: 910px;
+  font-size: 36px;
+  font-family: "Manrope-Regular";
+  line-height: 50px;
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 82px;
+}
+#section1 main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#section1 .btn {
+  width: 276px;
+  height: 100px;
+  background: #000;
+  border: 1px solid #fff;
+  margin-bottom: 199px;
+  font-size: 36px;
+  font-family: "Manrope-Bold";
+  line-height: 49.18px;
+  font-weight: 700;
+  color: #fff;
+}
