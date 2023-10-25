@@ -34,7 +34,23 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        gap:20px;
+        gap: 20px;
+    }
+    footer main,
+    footer .left-wrap,
+    footer .right-wrap {
+        width: 100%;
+        padding: 100px 0;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    footer .average-wrap {
+        width: 80%;
+    }
+    
+    footer .right-wrap {
+        flex-direction: row; 
     }
 }
 @media screen and (max-width: 900px){
@@ -73,6 +89,13 @@
     #section1 .description{
         font-size: 2rem;
     }
+    #section5 .description {
+        font-size: 38px;
+        line-height: 65.57px;
+        letter-spacing: 3%;
+        color:#fff;
+        text-align: center;
+      }
 }
 @media screen and (max-width: 640px) {
     #section1 header {
